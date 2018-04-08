@@ -1,0 +1,40 @@
+.player-console {
+  display: none;
+}
+body{
+  background-image: url(../images/dice.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.jumbotron{
+  text-align: center;
+  background-color:rgba(90, 128, 128,0.4);
+  border: none;
+  outline:none;
+  color:white;
+}
+.box{
+  text-align: center;
+  background-color:rgba(90, 128, 128,0.4);
+  border: none;
+  outline:none;
+  color:white;
+  border-radius: 3px;
+  width: 49%;
+}
+#boxOne{
+  margin-right: 2%;
+}
+#newGame{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+#formDiv{
+  width: 50%;
+  margin-left: 25%;
+}
+#createdBy{
+  border-top: 20%;
+  color: lightgrey;
+}
